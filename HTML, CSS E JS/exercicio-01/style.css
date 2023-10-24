@@ -1,0 +1,16 @@
+body, h1, p {
+    margin: 0;
+    padding: 0;
+}
+header {
+    display: flex;
+    background-color: silver;
+}
+
+main{
+    text-align: center;
+}
+footer{
+    display: block;
+    background-color: silver;
+}
