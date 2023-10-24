@@ -2,15 +2,38 @@ body, h1, p {
     margin: 0;
     padding: 0;
 }
-header {
-    display: flex;
-    background-color: silver;
+span {
+    padding-left: 20px;
+    color: blanchedalmond;
 }
 
-main{
+header {
+    display: flex;
+    align-items: center;
+    height: 70px;
+    background-color: black;    
+}
+
+nav, ul{
+    margin-left: 350px;
+}
+
+nav, ul, li {
+    display: inline;
+    padding-left: 50px;
+}
+
+main {
     text-align: center;
 }
+
+main, div {
+    margin: 5px;
+}
+
 footer{
-    display: block;
+    display: flex;
+    align-items: center;
+    height: 40px;
     background-color: silver;
 }
