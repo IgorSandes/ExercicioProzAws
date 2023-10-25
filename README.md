@@ -1,3 +1,3 @@
-# Exercícios do bootcamp PROZ AWS
+# Bootcamp - PROZ AWS
 
-Exercícios em python realizados durante o curso!
+Exercícios realizados durante o curso!
