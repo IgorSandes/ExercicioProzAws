@@ -1,16 +1,16 @@
 body, h1, p {
     margin: 0;
     padding: 0;
+    background-color: black;
+    color: blueviolet;
 }
 header {
-    display: inline;
     width: 100%;
-    
 }
 header, h1{
     text-align: center;
     color: white;
-    background-color: blue;
+    background-color: blueviolet;
 }
 main {
     text-align: center;
@@ -19,6 +19,7 @@ main {
 img {
     width: 700px;
     margin: 30px;
+    border-radius: 20px;
 }
 nav, ul{
     margin-left: 350px;
@@ -28,6 +29,6 @@ nav, ul, li {
     padding-left: 50px;
 }
 footer {
-    height: 80px;
+    height: 0 auto;
     background-color: silver;
 }
